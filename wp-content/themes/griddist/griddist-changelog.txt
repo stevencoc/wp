@@ -1,0 +1,38 @@
+== Changelog ==
+
+Version 1 (Initial release):
+- Forked Koji by Anders Norén -- https://wordpress.org/themes/koji/ (Find full copyright in readme.txt - thanks to Anders for licensing the awesome theme under GPLv2, check out his portfolio here:  http://www.andersnoren.se/)
+- Added page.php code & design
+- Redesigned blog feed
+- Redesigned sidebar
+- Added color customization to logo
+- Added custom header image
+- Added customizer.js 
+- Redesigned footer
+- Redesigned posts 
+- Did so you can show site-title & logo at the same time
+- Removed sections from posts
+- Integrated recent posts extended plugin with CSS
+- Changed general design & simplified elements
+- Redesigned comments section
+- Added new features to the customizer
+- Added customizer.php
+- Added CSS to integrate social media plugins 
+- Added extra.php
+- Added assets/svg
+- Redesigned tables
+- Added color customization
+- Added custom-header.php
+- Added CSS to integrate Instagram widget
+- Fixed JS svg errors
+- Hid away tagline on mobile
+- Updated functions.php code
+- Added color customization
+- Rewrote CSS & changed grid, sizes & general layout
+- Removed scrollbar from sidebar, but kept it scrollable
+- Redesigned logo
+- Added chevron to dropdowns
+- Added live change preview in the customizer
+- Added new typography to the entire theme (Lato & Merriweather)
+- You can now change colors on the sidebar
+- Readjusted header.php code
